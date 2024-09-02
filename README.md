@@ -38,7 +38,7 @@ Discussion about the linear relationship: The r-values suggest a weak or nonexis
 -	Map of Potential Vacation Cities with Marker Size Indicating Humidity (Larger Markers Represent Higher Humidity):
 ![map](<output_data/map that displays a point for every city.png>)
 -	Map of prospective vacation cities where the temperature is between 21 and 27 degrees Celsius; no clouds; and the wind speed is less than 4.5 meters per second with hotel information:
-![map](output_data/possible
+![alt text](output_data/possible_destinations_map.png)
 
 6. Ethical Considerations:
 The data obtained from API websites is typically accessible and does not include sensitive information. While collecting the .csv data in a similar format would require considerable effort, it also does not contain any sensitive information
