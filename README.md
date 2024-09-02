@@ -9,7 +9,8 @@ The API responses were already clean and were transformed into JSON format. The 
 For WeatherPy, scatter plots were created both with and without linear regression. For VacationPy, maps were generated.
 5. Results and Analysis: 
 (a) For WeatherPy, the following plots were produced: 
--	Maximum Temperature vs. Latitude: ![image](<output_data/Max Temperature vs. Latitude.png>)
+-	Maximum Temperature vs. Latitude:
+![image](<output_data/Max Temperature vs. Latitude.png>)
 -	 Humidity vs. Latitude:
 ![image](<output_data/Humidity vs. Latitude.png>)
 -	Cloudiness vs. Latitude:
