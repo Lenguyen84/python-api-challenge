@@ -7,3 +7,7 @@ Data for the WeatherPy component was partially retrieved from OpenWeather [api.o
 The API responses were already clean and were transformed into JSON format. The API responses were generated from specific data requests to each website and were visualized in DataFrames to assess their completeness and accuracy.
 4. Data Visualization Techniques and result
 For WeatherPy, scatter plots were created both with and without linear regression. For VacationPy, maps were generated.
+5. Results and Analysis: 
+(a) For WeatherPy, the following plots were produced: 
+-	Maximum Temperature vs. Latitude:
+![image](<output_data/Max Temperature vs. Latitude.png>)
